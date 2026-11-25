@@ -2,7 +2,8 @@
 just my project last semester in uni, i sned this file cause i still learning 
 here my  mermaid code i share to make a new website
 erDiagram
-    direction LR
+    here my mermaid code to apllying on draw.io
+    
 
     DOKTER_GIGI {
         int id_dokter PK
